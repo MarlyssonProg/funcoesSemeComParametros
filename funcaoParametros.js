@@ -9,5 +9,5 @@ function torrarPao(tipo) {
 torrarPao('árabe')
 
 // Obs: Toda variável declarada dentro do escopo da função não poderá ser
-//      de forma global fora da função, está só existirá dentro da função
-//      a qual foi declarada
+//      reconhecida de forma global fora da função. Esta só existirá dentro da função
+//      a qual foi declarada.
